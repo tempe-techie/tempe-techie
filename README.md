@@ -2,6 +2,7 @@ I am a full-stack web3 developer, working on the following open source projects:
 
 - [Punk Domains](https://punk.domains/): Modular web3 domain protocol that can issue multiple domain extensions (used by PoolTogether DAO, Klima DAO, Smol Brains NFT community, Giveth, etc.)
 - [Iggy](https://iggy.social/): Web3 Social framework, "wordpress" for Web3 Social. Easily set up a decentralized chat for your community. Open source and free to use for anyone.
+- [Moxie Gems](https://frames.moxiegems.com): An analytics frame to find the best deals among Moxie fan tokens.
 - [NFTdegen.lol](https://nftdegen.lol): NFT launchpad and marketplace on the Degen chain, an L3 chain on top of Base built by the $DEGEN community.
 - [Degen Radio](https://degenradio.lol): A web3 alternative to Spotify where you can make onchain playlists of music NFTs from many EVM chains.
 - [Send2.name](https://send2.name/): Send tokens to any web3 domain name, across many different chains. 40+ supported domain extensions.
